@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-decisionmakingweb-dev-163250-authRole",
+      "UnauthRoleArn": "arn:aws:iam::853909570640:role/amplify-decisionmakingweb-dev-163250-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::853909570640:role/amplify-decisionmakingweb-dev-163250-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-decisionmakingweb-dev-163250-deployment",
+      "UnauthRoleName": "amplify-decisionmakingweb-dev-163250-unauthRole",
+      "StackName": "amplify-decisionmakingweb-dev-163250",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:853909570640:stack/amplify-decisionmakingweb-dev-163250/5247e6a0-ee33-11ed-9aaf-0690aecfb6be",
+      "AmplifyAppId": "dybwyugjwt9ta"
+    }
+  }
+}
