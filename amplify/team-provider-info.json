@@ -14,10 +14,16 @@
     },
     "categories": {
       "function": {
-        "decisionmakingW001": {}
+        "decisionmakingW001": {
+          "deploymentBucketName": "amplify-decisionmakingweb-dev-163250-deployment",
+          "s3Key": "amplify-builds/decisionmakingW001-625a745263766b336a76-build.zip"
+        }
       },
       "auth": {
         "decisionmakingweb": {}
+      },
+      "api": {
+        "api0fd0fdf2": {}
       }
     }
   }
